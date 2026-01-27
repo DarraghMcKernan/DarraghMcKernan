@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hi I'm Darragh
-#### :video_game:I have a Bachelors (Honours) of Science in Computer Games Development :mortar_board::computer:
+#### :video_game:I have a Bachelor of Science (Honours) in Computer Games Development :mortar_board::computer:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F7A72A&center=true&vCenter=true&width=650&lines=C%2B%2B;C%23;Unity;HTML;JavaScript;Python" />
 
